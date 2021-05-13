@@ -1,7 +1,7 @@
 # Hi there I'm pixelchrome :wave:
  
  - :telescope: I’m currently working on ... Data Management
- - :whale: I’m currently learning ... Container Stuff
+ - :whale: I’m currently learning ... Container Stuff and IoT
  - :speech_balloon: Ask me about ... Storage
 
  # Homepage and Blog
