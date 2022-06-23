@@ -6,7 +6,7 @@
 
  # Homepage and Blog
 
- Please visit my [photoblog](https://pixelchrome.org), my [blog](https://pixelchrome.org/blog) and my [homepage](https://pixelchrome.org/about) - And if you use a Raspberry Pi and want to run a S3 Target on this Pi, [minio-arm](https://hub.docker.com/repository/docker/pixelchrome/minio-arm) is my most successful Docker Image with ![Docker Pulls](https://img.shields.io/docker/pulls/pixelchrome/minio-arm)
+ Please visit my [photoblog](https://pixelchrome.org), my [blog](https://pixelchrome.org/blog) and my [homepage](https://pixelchrome.org/about)
 
  # Github Usage - Status
 
