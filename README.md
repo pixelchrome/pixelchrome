@@ -6,7 +6,7 @@
 
  # Homepage and Blog
 
- Please visit my [photoblog](https://pixelchrome.org), my [blog](https://pixelchrome.org/blog) and my [homepage](https://pixelchrome.org/about)
+ Please visit my ~~[photoblog](https://pixelchrome.org)~~, my [blog](https://pixelchrome.org/blog) and my [homepage](https://pixelchrome.org/about)
 
  # Github Usage - Status
 
